@@ -15,10 +15,11 @@ In modern software development, designing scalable, reliable, and maintainable s
 
 ## Why Learn System Design?
 A strong understanding of system design helps software developers and architects build robust systems that can handle growth and change. System design skills are essential for: </br>
-- **Building Scalable Systems:** Ensuring that the system can handle increasing amounts of work or accommodate growth.
-- **Ensuring Reliability:** Designing systems that can recover from failures without disrupting the user experience.
-- **Enhancing Performance:** Reducing latency and ensuring fast response times for users, especially as load increases.
-- **Improving Maintainability:** Structuring code and architecture so it's easy to update, debug, and improve over time.</br>
+- **Building Scalable Systems:** *Ensuring that the system can handle increasing amounts of work or accommodate growth.*
+- **Ensuring Reliability:** *Designing systems that can recover from failures without disrupting the user experience.*
+- **Enhancing Performance:** *Reducing latency and ensuring fast response times for users, especially as load increases.*
+- **Improving Maintainability:** *Structuring code and architecture so it's easy to update, debug, and improve over time.* </br>
+
 
 System design is particularly valuable in interview settings for technical roles at large companies, where candidates are often asked to design systems like URL shorteners, messaging apps, or real-time analytics platforms. However, the skills gained go far beyond interview preparation—they form the foundation for building and understanding complex systems in production environments.
 
